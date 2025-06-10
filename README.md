@@ -1,7 +1,3 @@
-It looks like you've uploaded a Power BI (.pbix) file titled **"Flipkart Sales Analysis"**. If you're looking to create a **README.md** file for your GitHub repository to document this project, here's a sample you can customize:
-
----
-
 ## 📊 Flipkart Sales Analysis Dashboard
 
 This Power BI project analyzes Flipkart mobile listings to uncover insights about pricing, brand popularity, feature distribution, and customer ratings. The dashboard helps stakeholders make data-driven decisions regarding product strategy and competitive positioning.
